@@ -1,0 +1,7 @@
+# Prevent users to commit their own RProject
+.Rproj.user
+.Rproj
+# Prevent users to commit their own .Rdata and .Rhistory in mutual area
+.Rdata
+.Rhistory
+.Rapp.history
